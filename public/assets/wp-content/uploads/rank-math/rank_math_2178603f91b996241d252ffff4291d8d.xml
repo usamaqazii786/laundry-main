@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//thelaundryportal.com/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://thelaundryportal.com/post-sitemap.xml</loc>
+		<lastmod>2020-06-04T09:58:06+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://thelaundryportal.com/page-sitemap.xml</loc>
+		<lastmod>2022-11-06T18:42:27+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://thelaundryportal.com/product-sitemap.xml</loc>
+		<lastmod>2022-11-06T17:06:20+00:00</lastmod>
+	</sitemap>
+</sitemapindex>

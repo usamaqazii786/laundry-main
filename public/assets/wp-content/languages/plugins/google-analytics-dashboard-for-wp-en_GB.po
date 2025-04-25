@@ -1,0 +1,198 @@
+# Translation of Plugins - ExactMetrics &#8211; Google Analytics Dashboard for WordPress (Website Stats Plugin) - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - ExactMetrics &#8211; Google Analytics Dashboard for WordPress (Website Stats Plugin) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-07-08 13:45:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - ExactMetrics &#8211; Google Analytics Dashboard for WordPress (Website Stats Plugin) - Stable (latest release)\n"
+
+#. Author of the plugin
+#: gadwp.php includes/admin/admin.php:43 includes/admin/admin.php:46
+#: includes/admin/admin.php:58 includes/admin/eea-compliance.php:208
+#: includes/admin/wp-site-health.php:35 includes/emails/class-emails.php:255
+#: lite/includes/admin/dashboard-widget.php:99
+#: lite/includes/admin/wp-site-health.php:231
+#: lite/includes/admin/wp-site-health.php:283
+#: lite/includes/admin/wp-site-health.php:310
+#: lite/includes/admin/wp-site-health.php:348
+#: lite/includes/admin/wp-site-health.php:375
+#: lite/includes/admin/wp-site-health.php:405
+#: lite/includes/admin/wp-site-health.php:449
+msgid "ExactMetrics"
+msgstr "ExactMetrics"
+
+#: languages/vue.php:2291
+msgid "Hide Announcements"
+msgstr "Hide Announcements"
+
+#: languages/vue.php:2301
+msgid "Hides plugin announcements and update details. This includes critical notices we use to inform about deprecations and important required configuration changes."
+msgstr "Hides plugin announcements and update details. This includes critical notices we use to inform about deprecations and important required configuration changes."
+
+#: includes/admin/tracking.php:245
+msgid "Once Weekly"
+msgstr "Once Weekly"
+
+#: languages/vue.php:5225
+msgid "Usage Tracking"
+msgstr "Usage Tracking"
+
+#: languages/vue.php:2143
+msgid "Get Started"
+msgstr "Get started"
+
+#. Plugin URI of the plugin
+#: gadwp.php
+msgid "https://exactmetrics.com"
+msgstr "https://exactmetrics.com"
+
+#: languages/vue.php:3327
+msgid "OptinMonster"
+msgstr "OptinMonster"
+
+#: languages/vue.php:5632
+msgid "WPForms"
+msgstr "WPForms"
+
+#. Plugin Name of the plugin
+#: gadwp.php
+msgid "Google Analytics Dashboard for WP (GADWP)"
+msgstr "Google Analytics Dashboard for WP (GADWP)"
+
+#: languages/vue.php:2561
+msgid "Integrations"
+msgstr "Integrations"
+
+#: languages/vue.php:1633
+msgid "Ecommerce"
+msgstr "Ecommerce"
+
+#: languages/vue.php:1341
+msgid "Custom Dimensions"
+msgstr "Custom Dimensions"
+
+#: languages/gutenberg.php:354 assets/gutenberg/js/editor.js:3929
+msgid "Time On Page"
+msgstr "Time On Page"
+
+#: languages/vue.php:4397
+msgid "Sources"
+msgstr "Sources"
+
+#: assets/lib/pandora/class-am-deactivation-survey.php:290
+msgid "Other"
+msgstr "Other"
+
+#: languages/vue.php:5013
+msgid "Traffic"
+msgstr "Traffic"
+
+#: includes/admin/site-notes/Controller.php:429 languages/vue.php:1383
+msgid "Date"
+msgstr "Date"
+
+#: includes/admin/admin.php:46 includes/admin/admin.php:58
+#: includes/admin/admin.php:363 languages/vue.php:4210
+msgid "Settings"
+msgstr "Settings"
+
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-pageviews.php:36
+#: languages/gutenberg.php:351 languages/vue.php:758
+#: assets/gutenberg/js/editor.js:3928
+msgid "Bounce Rate"
+msgstr "Bounce Rate"
+
+#. Description of the plugin
+#: gadwp.php
+msgid "Displays Google Analytics Reports and Real-Time Statistics in your Dashboard. Automatically inserts the tracking code in every page of your website."
+msgstr "Displays Google Analytics Reports and Real-Time Statistics in your Dashboard. Automatically inserts the tracking code in every page of your website."
+
+#: includes/admin/admin.php:32
+msgid "NEW"
+msgstr "NEW"
+
+#: languages/gutenberg.php:363 languages/vue.php:3402
+#: lite/includes/admin/metaboxes.php:80 lite/includes/admin/metaboxes.php:120
+#: lite/includes/emails/templates/body-summaries.php:189
+#: assets/gutenberg/js/editor.js:3932
+msgid "Page Views"
+msgstr "Page Views"
+
+#: languages/vue.php:3405
+#: lite/includes/emails/templates/body-summaries-test.php:229
+#: lite/includes/emails/templates/body-summaries.php:306
+msgid "Pages"
+msgstr "Pages"
+
+#: languages/vue.php:3753
+msgid "Real-Time"
+msgstr "Real-Time"
+
+#: includes/gutenberg/site-insights/templates/graph/class-graph-sessions.php:36
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-age.php:60
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-gender.php:60
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-sessions.php:27
+#: includes/gutenberg/site-insights/templates/scorecard/class-scorecard-top10countries.php:56
+#: languages/vue.php:4176
+#: lite/includes/emails/templates/body-summaries-test.php:316
+#: lite/includes/emails/templates/body-summaries.php:129
+msgid "Sessions"
+msgstr "Sessions"
+
+#: languages/vue.php:4366
+msgid "Social Networks"
+msgstr "Social Networks"
+
+#: languages/vue.php:5019
+msgid "Traffic Details"
+msgstr "Traffic Details"
+
+#: languages/vue.php:5452
+msgid "Views"
+msgstr "Views"
+
+#: languages/vue.php:924
+msgid "Channel"
+msgstr "Channel"
+
+#: languages/vue.php:3923
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: languages/vue.php:426
+msgid "Advanced Tracking"
+msgstr "Advanced Tracking"
+
+#: languages/vue.php:523
+msgid "Analytics"
+msgstr "Analytics"
+
+#: languages/vue.php:618
+msgid "Automatic Updates"
+msgstr "Automatic Updates"
+
+#: languages/vue.php:1885
+msgid "Events Tracking"
+msgstr "Events Tracking"
+
+#: languages/vue.php:3485
+msgid "Permissions"
+msgstr "Permissions"
+
+#: languages/vue.php:4857
+msgid "Today"
+msgstr "Today"
+
+#: includes/gutenberg/headline-tool/headline-tool.php:980
+msgid "video"
+msgstr "video"
+
+#: languages/gutenberg.php:348 languages/vue.php:5661
+#: lite/includes/admin/metaboxes.php:50 assets/gutenberg/js/editor.js:3927
+msgid "Yesterday"
+msgstr "Yesterday"

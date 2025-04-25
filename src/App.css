@@ -1,0 +1,14 @@
+.Place_Your_Order{
+    margin: auto !important;
+    display: flex !important;
+    margin-top: 10px !important;
+    color: white !important;
+}
+@media (max-width:300px)and(min-width:425px) {
+  .mobilescreen12{
+    background: linear-gradient(300deg, rgb(30, 163, 254, 0.95) 0, rgb(154, 251, 206, 0.93) 100%) !important;
+  }
+}
+.pac-container{
+    display: none !important;
+}

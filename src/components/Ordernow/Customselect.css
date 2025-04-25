@@ -1,0 +1,152 @@
+.timeslot-picker--slot {
+    width: 100%;
+    position: relative;
+  }
+  
+  .timeslot-label {
+    font-size: 14px;
+    color: #4a4a4a;
+    margin-bottom: 6px;
+  }
+  
+  .menu {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 370px;
+    position: relative;
+  }
+  
+  .menu-header {
+    padding: 4px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .menu-header2 {
+    padding: 4px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .icon-edit {
+    margin-left: auto;
+    cursor: pointer;
+  }
+  
+  .icon-carret {
+    margin-left: 8px;
+  }
+  
+  .menu-body {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    z-index: 10;
+  }
+  
+  .dropdown-item {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: background-color 0.3s;
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #f0f0f0;
+    color: #000;
+  }
+  .dropdown-item.active {
+    background-color: #00bcd491;
+    color: #000;
+  }
+  
+  .font-12-20 {
+    font-size: 12px;
+  }
+  
+  .font-14-21 {
+    font-size: 14px;
+  }
+  
+  .font-16-24 {
+    font-size: 20px;
+  }
+  
+  .deep-black {
+    color: #000000ba;
+    background-color: white;
+  }
+  
+  .medium-grey {
+    color: #7d7d7d;
+  }
+  
+  .dark-grey {
+    color: #4a4a4a;
+  }
+  
+  .mb-6 {
+    margin-bottom: 6px;
+  }
+  
+  .me-16 {
+    margin-right: 16px;
+  }
+  
+  .ms-8 {
+    margin-left: 8px;
+  }
+  
+  @media (max-width:768px)and(min-width:300px) {
+    .menu {
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      cursor: pointer;
+      width: 100% !important;
+      position: relative;
+    }
+  }
+  @media (min-width:430px) {
+    .menu {
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      cursor: pointer;
+      width: 100% !important;
+      position: relative;
+    }
+  }
+  @keyframes fadeInOut {
+    0% { opacity: 0.2; }
+    50% { opacity: 1; }
+    100% { opacity: 0.2; }
+  }
+  
+  .loading-text101 {
+    font-size: 16px;
+    color: #555;
+    animation: fadeInOut 1.5s infinite ease-in-out;
+  }
+   @media (max-width:768px) and (min-width:300px) {
+    .menu-body {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      overflow-y: auto;
+      width: 100%;
+      padding: 10px;
+      background: #fff;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      z-index: 10;
+      height: 300px;
+  }
+   }

@@ -1,0 +1,368 @@
+
+22-04-2024 03:50:41 [thelaundryportal.com][info] Parent plugin start installation!
+22-04-2024 03:50:41 [thelaundryportal.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.6.9
+22-04-2024 03:50:42 [thelaundryportal.com][info] Successfully fix collation for plugin table.
+WP COLLATION: utf8mb4_unicode_ci | PLUGIN COLLATION: utf8mb4_unicode_520_ci
+22-04-2024 03:50:42 [thelaundryportal.com][info] Parent plugin installation complete!
+-------------------------------
+22-04-2024 03:50:57 [thelaundryportal.com][info] Try to create backup directory. Backup dir: (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/wio_backup)
+-------------------------------
+22-04-2024 03:51:06 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:06 [thelaundryportal.com][info] Try to create backup directory. Backup dir: (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/wio_backup/2019/12)
+22-04-2024 03:51:06 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2019/12/appstore-badge-min.png) to a remote server (server_1).
+22-04-2024 03:51:06 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:06 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2019/12/appstore-badge-min-150x150.png) to a remote server (server_1).
+22-04-2024 03:51:06 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:06 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2019/12/appstore-badge-min-300x89.png) to a remote server (server_1).
+22-04-2024 03:51:06 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:06 [thelaundryportal.com][debug] New queue created #1, attributes values: {"server_id":null,"object_id":"33","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":44390,"final_size":29152,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":16654,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743466}
+22-04-2024 03:51:06 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 35
+-------------------------------
+22-04-2024 03:51:07 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:07 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2019/12/IconGoogleplay-min.png) to a remote server (server_1).
+22-04-2024 03:51:07 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:07 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2019/12/IconGoogleplay-min-150x150.png) to a remote server (server_1).
+22-04-2024 03:51:07 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:07 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2019/12/IconGoogleplay-min-300x88.png) to a remote server (server_1).
+22-04-2024 03:51:08 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:08 [thelaundryportal.com][debug] New queue created #2, attributes values: {"server_id":null,"object_id":"34","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":40967,"final_size":25803,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":14981,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743468}
+22-04-2024 03:51:08 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 34
+-------------------------------
+22-04-2024 03:51:08 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:08 [thelaundryportal.com][info] Try to create backup directory. Backup dir: (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/wio_backup/2020/01)
+22-04-2024 03:51:08 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/01/laundry-hub-logo-Latest-min.png) to a remote server (server_1).
+22-04-2024 03:51:08 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:09 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/01/laundry-hub-logo-Latest-min-100x150.png) to a remote server (server_1).
+22-04-2024 03:51:09 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:09 [thelaundryportal.com][debug] New queue created #3, attributes values: {"server_id":null,"object_id":"55","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":15865,"final_size":10099,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":5443,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743469}
+22-04-2024 03:51:09 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 33
+-------------------------------
+22-04-2024 03:51:09 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:09 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/01/laundry-portal-horizontal-min.png) to a remote server (server_1).
+22-04-2024 03:51:10 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:10 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/01/laundry-portal-horizontal-min-150x100.png) to a remote server (server_1).
+22-04-2024 03:51:10 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:10 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/01/laundry-portal-horizontal-min-300x35.png) to a remote server (server_1).
+22-04-2024 03:51:10 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:10 [thelaundryportal.com][debug] New queue created #4, attributes values: {"server_id":null,"object_id":"80","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":24613,"final_size":17329,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":11837,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743470}
+22-04-2024 03:51:10 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 32
+-------------------------------
+22-04-2024 03:51:11 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:12 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/01/clothes_washing.jpg) to a remote server (server_1).
+22-04-2024 03:51:12 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:12 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/01/clothes_washing-150x150.jpg) to a remote server (server_1).
+22-04-2024 03:51:12 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:12 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/01/clothes_washing-300x200.jpg) to a remote server (server_1).
+22-04-2024 03:51:12 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:12 [thelaundryportal.com][debug] New queue created #5, attributes values: {"server_id":null,"object_id":"101","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":102171,"final_size":100758,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":76137,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743472}
+22-04-2024 03:51:12 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 31
+-------------------------------
+22-04-2024 03:51:14 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:14 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/01/Laundry-portal-favicon-min.png) to a remote server (server_1).
+22-04-2024 03:51:14 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:14 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/01/Laundry-portal-favicon-min-150x150.png) to a remote server (server_1).
+22-04-2024 03:51:14 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:14 [thelaundryportal.com][debug] New queue created #6, attributes values: {"server_id":null,"object_id":"187","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":16925,"final_size":12303,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":8247,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743474}
+22-04-2024 03:51:15 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 30
+-------------------------------
+22-04-2024 03:51:15 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:15 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/01/cropped-Laundry-portal-favicon-min.png) to a remote server (server_1).
+22-04-2024 03:51:15 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:16 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/01/cropped-Laundry-portal-favicon-min-150x150.png) to a remote server (server_1).
+22-04-2024 03:51:16 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:16 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/01/cropped-Laundry-portal-favicon-min-300x300.png) to a remote server (server_1).
+22-04-2024 03:51:16 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:16 [thelaundryportal.com][debug] New queue created #7, attributes values: {"server_id":null,"object_id":"188","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":97066,"final_size":40427,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":51560,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743476}
+22-04-2024 03:51:16 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 29
+-------------------------------
+22-04-2024 03:51:16 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:16 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/01/Laundry_Portal_Hero.png) to a remote server (server_1).
+22-04-2024 03:51:17 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:17 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/01/Laundry_Portal_Hero-150x150.png) to a remote server (server_1).
+22-04-2024 03:51:17 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:17 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/01/Laundry_Portal_Hero-300x287.png) to a remote server (server_1).
+22-04-2024 03:51:17 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:17 [thelaundryportal.com][debug] New queue created #8, attributes values: {"server_id":null,"object_id":"195","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":402360,"final_size":120420,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":286300,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743477}
+22-04-2024 03:51:17 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 28
+-------------------------------
+22-04-2024 03:51:18 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:18 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/01/Laundry-portal-AboutUs.png) to a remote server (server_1).
+22-04-2024 03:51:18 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:18 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/01/Laundry-portal-AboutUs-150x150.png) to a remote server (server_1).
+22-04-2024 03:51:18 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:18 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/01/Laundry-portal-AboutUs-300x187.png) to a remote server (server_1).
+22-04-2024 03:51:18 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:19 [thelaundryportal.com][debug] New queue created #9, attributes values: {"server_id":null,"object_id":"216","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":60588,"final_size":26683,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":36583,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743479}
+22-04-2024 03:51:19 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 27
+-------------------------------
+22-04-2024 03:51:19 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:19 [thelaundryportal.com][info] Try to create backup directory. Backup dir: (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/wio_backup/2020/02)
+22-04-2024 03:51:19 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/default.png) to a remote server (server_1).
+22-04-2024 03:51:19 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:20 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/default-150x150.png) to a remote server (server_1).
+22-04-2024 03:51:20 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:20 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/default-300x300.png) to a remote server (server_1).
+22-04-2024 03:51:20 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:20 [thelaundryportal.com][debug] New queue created #10, attributes values: {"server_id":null,"object_id":"230","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":29100,"final_size":14896,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":11700,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743480}
+22-04-2024 03:51:20 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 26
+-------------------------------
+22-04-2024 03:51:21 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:21 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Dima-Logo-2.jpeg) to a remote server (server_1).
+22-04-2024 03:51:21 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:21 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Dima-Logo-2-150x150.jpeg) to a remote server (server_1).
+22-04-2024 03:51:21 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:21 [thelaundryportal.com][debug] New queue created #11, attributes values: {"server_id":null,"object_id":"231","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":23772,"final_size":21584,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":16568,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743481}
+22-04-2024 03:51:21 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 25
+-------------------------------
+22-04-2024 03:51:22 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:22 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Eagles-Laundry.png) to a remote server (server_1).
+22-04-2024 03:51:22 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:22 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Eagles-Laundry-150x150.png) to a remote server (server_1).
+22-04-2024 03:51:23 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:23 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Eagles-Laundry-300x300.png) to a remote server (server_1).
+22-04-2024 03:51:23 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:23 [thelaundryportal.com][debug] New queue created #12, attributes values: {"server_id":null,"object_id":"232","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":83249,"final_size":30726,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":50858,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743483}
+22-04-2024 03:51:23 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 24
+-------------------------------
+22-04-2024 03:51:24 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:24 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/jeeves.png) to a remote server (server_1).
+22-04-2024 03:51:24 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:24 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/jeeves-150x150.png) to a remote server (server_1).
+22-04-2024 03:51:24 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:24 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/jeeves-300x300.png) to a remote server (server_1).
+22-04-2024 03:51:24 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:24 [thelaundryportal.com][debug] New queue created #13, attributes values: {"server_id":null,"object_id":"233","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":77034,"final_size":44644,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":56283,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743484}
+22-04-2024 03:51:24 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 23
+-------------------------------
+22-04-2024 03:51:25 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:25 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Laundroville-Logo.jpeg) to a remote server (server_1).
+22-04-2024 03:51:25 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:25 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Laundroville-Logo-150x150.jpeg) to a remote server (server_1).
+22-04-2024 03:51:25 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:25 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Laundroville-Logo-300x300.jpeg) to a remote server (server_1).
+22-04-2024 03:51:25 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:25 [thelaundryportal.com][debug] New queue created #14, attributes values: {"server_id":null,"object_id":"234","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":35328,"final_size":33858,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":21641,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743485}
+22-04-2024 03:51:25 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+22-04-2024 03:51:26 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:26 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Laundry-Day-Logo.jpeg) to a remote server (server_1).
+22-04-2024 03:51:26 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:26 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Laundry-Day-Logo-150x150.jpeg) to a remote server (server_1).
+22-04-2024 03:51:26 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:26 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Laundry-Day-Logo-278x300.jpeg) to a remote server (server_1).
+22-04-2024 03:51:26 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:27 [thelaundryportal.com][debug] New queue created #15, attributes values: {"server_id":null,"object_id":"235","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":51168,"final_size":48358,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":27225,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743487}
+22-04-2024 03:51:27 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+22-04-2024 03:51:28 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:28 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Laundry-Hub.jpeg) to a remote server (server_1).
+22-04-2024 03:51:28 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:28 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Laundry-Hub-150x150.jpeg) to a remote server (server_1).
+22-04-2024 03:51:28 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:28 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Laundry-Hub-285x300.jpeg) to a remote server (server_1).
+22-04-2024 03:51:28 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:28 [thelaundryportal.com][debug] New queue created #16, attributes values: {"server_id":null,"object_id":"236","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":81375,"final_size":72066,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":59174,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743488}
+22-04-2024 03:51:28 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+22-04-2024 03:51:29 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:29 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/New-Stream-Laundry.jpeg) to a remote server (server_1).
+22-04-2024 03:51:29 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:29 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/New-Stream-Laundry-150x150.jpeg) to a remote server (server_1).
+22-04-2024 03:51:29 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:29 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/New-Stream-Laundry-300x255.jpeg) to a remote server (server_1).
+22-04-2024 03:51:30 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:30 [thelaundryportal.com][debug] New queue created #17, attributes values: {"server_id":null,"object_id":"237","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":70503,"final_size":66806,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":49114,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743490}
+22-04-2024 03:51:30 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+22-04-2024 03:51:30 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:30 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Rose-Laundry-Logo.jpeg) to a remote server (server_1).
+22-04-2024 03:51:30 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:30 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Rose-Laundry-Logo-150x150.jpeg) to a remote server (server_1).
+22-04-2024 03:51:31 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:31 [thelaundryportal.com][debug] New queue created #18, attributes values: {"server_id":null,"object_id":"238","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":18265,"final_size":15788,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":12741,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743491}
+22-04-2024 03:51:31 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+22-04-2024 03:51:31 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:31 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/SSL-Logo.png) to a remote server (server_1).
+22-04-2024 03:51:32 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:32 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/SSL-Logo-150x150.png) to a remote server (server_1).
+22-04-2024 03:51:32 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:32 [thelaundryportal.com][debug] New queue created #19, attributes values: {"server_id":null,"object_id":"239","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":197704,"final_size":60889,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":153373,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743492}
+22-04-2024 03:51:32 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+22-04-2024 03:51:33 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:33 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/The-Executive-Laundry-Logo.jpg) to a remote server (server_1).
+22-04-2024 03:51:33 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:33 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/The-Executive-Laundry-Logo-150x150.jpg) to a remote server (server_1).
+22-04-2024 03:51:33 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:33 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/The-Executive-Laundry-Logo-287x300.jpg) to a remote server (server_1).
+22-04-2024 03:51:33 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:33 [thelaundryportal.com][debug] New queue created #20, attributes values: {"server_id":null,"object_id":"240","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":26747,"final_size":22571,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":14546,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743493}
+22-04-2024 03:51:33 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+22-04-2024 03:51:34 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:34 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Washboard-Your-Laundry.png) to a remote server (server_1).
+22-04-2024 03:51:34 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:35 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Washboard-Your-Laundry-150x150.png) to a remote server (server_1).
+22-04-2024 03:51:35 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:35 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Washboard-Your-Laundry-300x300.png) to a remote server (server_1).
+22-04-2024 03:51:35 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:35 [thelaundryportal.com][debug] New queue created #21, attributes values: {"server_id":null,"object_id":"241","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":71935,"final_size":27172,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":38991,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743495}
+22-04-2024 03:51:35 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+22-04-2024 03:51:36 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:36 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/white_spot.png) to a remote server (server_1).
+22-04-2024 03:51:36 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:36 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/white_spot-150x150.png) to a remote server (server_1).
+22-04-2024 03:51:36 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:36 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/white_spot-300x300.png) to a remote server (server_1).
+22-04-2024 03:51:36 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:36 [thelaundryportal.com][debug] New queue created #22, attributes values: {"server_id":null,"object_id":"242","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":98973,"final_size":36809,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":45923,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743496}
+22-04-2024 03:51:36 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+22-04-2024 03:51:37 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:37 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Checkout_Pay-min.jpeg) to a remote server (server_1).
+22-04-2024 03:51:37 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:37 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Checkout_Pay-min-150x150.jpeg) to a remote server (server_1).
+22-04-2024 03:51:37 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:38 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Checkout_Pay-min-149x300.jpeg) to a remote server (server_1).
+22-04-2024 03:51:38 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:38 [thelaundryportal.com][debug] New queue created #23, attributes values: {"server_id":null,"object_id":"243","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":48705,"final_size":47506,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":34987,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743498}
+22-04-2024 03:51:38 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+22-04-2024 03:51:38 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:38 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Delivery-Times-1.jpeg) to a remote server (server_1).
+22-04-2024 03:51:39 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:39 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Delivery-Times-1-150x150.jpeg) to a remote server (server_1).
+22-04-2024 03:51:39 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:39 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Delivery-Times-1-149x300.jpeg) to a remote server (server_1).
+22-04-2024 03:51:39 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:39 [thelaundryportal.com][debug] New queue created #24, attributes values: {"server_id":null,"object_id":"244","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":65393,"final_size":63742,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":50305,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743499}
+22-04-2024 03:51:39 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+22-04-2024 03:51:40 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:40 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Delivery-Times-min.jpeg) to a remote server (server_1).
+22-04-2024 03:51:40 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:40 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Delivery-Times-min-150x150.jpeg) to a remote server (server_1).
+22-04-2024 03:51:40 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:40 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Delivery-Times-min-149x300.jpeg) to a remote server (server_1).
+22-04-2024 03:51:41 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:41 [thelaundryportal.com][debug] New queue created #25, attributes values: {"server_id":null,"object_id":"245","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":54247,"final_size":53025,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":39016,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743501}
+22-04-2024 03:51:41 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+22-04-2024 03:51:41 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:41 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Select-Laundry-Provider-min.jpeg) to a remote server (server_1).
+22-04-2024 03:51:42 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:42 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Select-Laundry-Provider-min-150x150.jpeg) to a remote server (server_1).
+22-04-2024 03:51:42 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:42 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Select-Laundry-Provider-min-148x300.jpeg) to a remote server (server_1).
+22-04-2024 03:51:42 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:42 [thelaundryportal.com][debug] New queue created #26, attributes values: {"server_id":null,"object_id":"246","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":108047,"final_size":106608,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":85132,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743502}
+22-04-2024 03:51:42 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+22-04-2024 03:51:43 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:43 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Laundry-portal-favicon-black.png) to a remote server (server_1).
+22-04-2024 03:51:43 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:43 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Laundry-portal-favicon-black-150x150.png) to a remote server (server_1).
+22-04-2024 03:51:43 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:43 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/02/Laundry-portal-favicon-black-300x300.png) to a remote server (server_1).
+22-04-2024 03:51:43 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:43 [thelaundryportal.com][debug] New queue created #27, attributes values: {"server_id":null,"object_id":"283","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":68197,"final_size":27070,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":27732,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743503}
+22-04-2024 03:51:43 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+22-04-2024 03:51:44 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:44 [thelaundryportal.com][info] Try to create backup directory. Backup dir: (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/wio_backup/2020/03)
+22-04-2024 03:51:46 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/03/corona1-1.jpg) to a remote server (server_1).
+22-04-2024 03:51:46 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:46 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/03/corona1-1-150x150.jpg) to a remote server (server_1).
+22-04-2024 03:51:46 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:46 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/03/corona1-1-300x300.jpg) to a remote server (server_1).
+22-04-2024 03:51:46 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:46 [thelaundryportal.com][debug] New queue created #28, attributes values: {"server_id":null,"object_id":"300","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":836500,"final_size":187477,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":794703,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743506}
+22-04-2024 03:51:46 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+22-04-2024 03:51:49 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:49 [thelaundryportal.com][info] Try to create backup directory. Backup dir: (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/wio_backup/2020/06)
+22-04-2024 03:51:49 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/06/Choose-laundry-near-you-min.png) to a remote server (server_1).
+22-04-2024 03:51:49 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:49 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/06/Choose-laundry-near-you-min-150x150.png) to a remote server (server_1).
+22-04-2024 03:51:49 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:49 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/06/Choose-laundry-near-you-min-151x300.png) to a remote server (server_1).
+22-04-2024 03:51:49 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:49 [thelaundryportal.com][debug] New queue created #29, attributes values: {"server_id":null,"object_id":"338","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":198169,"final_size":121843,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":88530,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743509}
+22-04-2024 03:51:49 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+22-04-2024 03:51:50 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:50 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/06/Choose-payment-laundry-nearby-min.png) to a remote server (server_1).
+22-04-2024 03:51:50 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:50 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/06/Choose-payment-laundry-nearby-min-150x150.png) to a remote server (server_1).
+22-04-2024 03:51:50 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:51 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/06/Choose-payment-laundry-nearby-min-151x300.png) to a remote server (server_1).
+22-04-2024 03:51:51 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:51 [thelaundryportal.com][debug] New queue created #30, attributes values: {"server_id":null,"object_id":"339","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":123620,"final_size":80743,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":58534,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743511}
+22-04-2024 03:51:51 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+22-04-2024 03:51:51 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:51 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/06/choose-time-laundry-near-you-min.png) to a remote server (server_1).
+22-04-2024 03:51:52 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:52 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/06/choose-time-laundry-near-you-min-150x150.png) to a remote server (server_1).
+22-04-2024 03:51:52 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:52 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2020/06/choose-time-laundry-near-you-min-151x300.png) to a remote server (server_1).
+22-04-2024 03:51:52 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:52 [thelaundryportal.com][debug] New queue created #31, attributes values: {"server_id":null,"object_id":"340","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":116992,"final_size":78303,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":52370,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743512}
+22-04-2024 03:51:52 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+22-04-2024 03:51:53 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:53 [thelaundryportal.com][info] Try to create backup directory. Backup dir: (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/wio_backup/2022/09)
+22-04-2024 03:51:53 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2022/09/1.jpg) to a remote server (server_1).
+22-04-2024 03:51:53 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:53 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2022/09/1-150x150.jpg) to a remote server (server_1).
+22-04-2024 03:51:53 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:54 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2022/09/1-300x300.jpg) to a remote server (server_1).
+22-04-2024 03:51:54 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:54 [thelaundryportal.com][debug] New queue created #32, attributes values: {"server_id":null,"object_id":"507","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":245278,"final_size":239383,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":218567,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743514}
+22-04-2024 03:51:54 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+22-04-2024 03:51:55 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:55 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2022/09/3.jpg) to a remote server (server_1).
+22-04-2024 03:51:55 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:55 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2022/09/3-150x150.jpg) to a remote server (server_1).
+22-04-2024 03:51:55 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:56 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2022/09/3-300x300.jpg) to a remote server (server_1).
+22-04-2024 03:51:56 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:56 [thelaundryportal.com][debug] New queue created #33, attributes values: {"server_id":null,"object_id":"508","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":401305,"final_size":381259,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":382442,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743516}
+22-04-2024 03:51:56 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+22-04-2024 03:51:57 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:57 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2022/09/2.jpg) to a remote server (server_1).
+22-04-2024 03:51:57 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:57 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2022/09/2-150x150.jpg) to a remote server (server_1).
+22-04-2024 03:51:58 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:58 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2022/09/2-300x300.jpg) to a remote server (server_1).
+22-04-2024 03:51:58 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:58 [thelaundryportal.com][debug] New queue created #34, attributes values: {"server_id":null,"object_id":"509","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":252329,"final_size":249203,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":225998,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743518}
+22-04-2024 03:51:58 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+22-04-2024 03:51:58 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:51:58 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2022/09/3-1.jpg) to a remote server (server_1).
+22-04-2024 03:51:59 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:59 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2022/09/3-1-150x150.jpg) to a remote server (server_1).
+22-04-2024 03:51:59 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:59 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/2022/09/3-1-300x300.jpg) to a remote server (server_1).
+22-04-2024 03:51:59 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:51:59 [thelaundryportal.com][debug] New queue created #35, attributes values: {"server_id":null,"object_id":"510","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":401305,"final_size":381259,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":382442,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743519}
+22-04-2024 03:51:59 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+22-04-2024 03:52:00 [thelaundryportal.com][info] Start bulk optimization process! Scope: media-library
+22-04-2024 03:52:00 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/woocommerce-placeholder.png) to a remote server (server_1).
+22-04-2024 03:52:00 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:52:00 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/woocommerce-placeholder-150x150.png) to a remote server (server_1).
+22-04-2024 03:52:00 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:52:00 [thelaundryportal.com][info] Preparing to upload a file (/home/u751957777/domains/thelaundryportal.com/public_html/wp-content/uploads/woocommerce-placeholder-300x300.png) to a remote server (server_1).
+22-04-2024 03:52:01 [thelaundryportal.com][info] File successfully uploaded to remote server (server_1).
+22-04-2024 03:52:01 [thelaundryportal.com][debug] New queue created #36, attributes values: {"server_id":null,"object_id":"745","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":116957,"final_size":84796,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":102644,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713743521}
+22-04-2024 03:52:01 [thelaundryportal.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------

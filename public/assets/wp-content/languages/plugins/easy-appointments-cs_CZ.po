@@ -1,0 +1,862 @@
+# Translation of Plugins - Easy Appointments - Development (trunk) in Czech
+# This file is distributed under the same license as the Plugins - Easy Appointments - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-09 06:45:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - Easy Appointments - Development (trunk)\n"
+
+#: src/templates/admin.tpl.php:74
+msgid "Worker, Location and Service"
+msgstr "Pracovník, místo a služby"
+
+#: src/templates/admin.tpl.php:605
+msgid "Show From or From-To label on time slot in [ea_bootstrap] shortcode."
+msgstr "Zobrazit štítek Od nebo Od-Do na časovém úseku ve zkráceném kódu [ea_bootstrap]."
+
+#: src/templates/admin.tpl.php:603
+msgid "Select label style"
+msgstr "Vybrat styl labelu"
+
+#: src/admin.php:368 src/admin.php:369
+msgid "Employees"
+msgstr "Zaměstnanci"
+
+#: src/templates/admin.tpl.php:866
+msgid "Mask options"
+msgstr "Možnosti masky"
+
+#: src/admin.php:408 src/admin.php:409
+msgid "Vacation"
+msgstr "Dovolená"
+
+#: src/templates/admin.tpl.php:764
+msgid "Remove data now"
+msgstr "Odstranit data hned"
+
+#: src/templates/admin.tpl.php:764
+msgid "Auto remove data via Cron that runs once a day"
+msgstr "Automatické odstranění dat pomocí Cronu, který se spustí jednou denně"
+
+#: src/templates/admin.tpl.php:758
+msgid "This action will remove custom form field values older then 6 months. After that appointments older then 6 months will not hold any customer related data."
+msgstr "Tato akce odstraní hodnoty vlastního pole formuláře starší než 6 měsíců. Poté nebudou schůzky starší než 6 měsíců uchovávat žádná data týkající se zákazníků."
+
+#: src/templates/admin.tpl.php:756
+msgid "Clear customer data older then 6 months"
+msgstr "Odstranit údaje o zákaznících starší než 6 měsíců"
+
+#: src/templates/admin.tpl.php:589
+msgid "Form label style"
+msgstr "Styl štítku formuláře"
+
+#: src/api/gdpr.php:46
+msgid "Data deleted"
+msgstr "Data smazána"
+
+#: src/templates/admin.tpl.php:145
+msgid "Reservation status is short term, if you don't change it within 5 minutes it will be set to cancelled"
+msgstr "Stav rezervace je krátkodobá, pokud ho do 5 minut nezměníte, nastaví se na zrušeno"
+
+#: src/api/logactions.php:67
+msgid "Log file removed"
+msgstr "Log soubor odstraněn"
+
+#: src/api/logactions.php:56
+msgid "Log records deleted"
+msgstr "Log záznamy odstraněny"
+
+#: src/templates/admin.tpl.php:396
+msgid "Full documentation"
+msgstr "Kompletní dokumentace"
+
+#: src/templates/admin.tpl.php:396 src/templates/admin.tpl.php:868
+msgid "Example"
+msgstr "Příklad"
+
+#: src/templates/admin.tpl.php:380
+msgid "Popup dialog for event content."
+msgstr "Popup dialog pro obsah události."
+
+#: src/templates/admin.tpl.php:378
+msgid "Show event content in popup"
+msgstr "Zobrazit obsah události ve vyskakovacím okně"
+
+#: src/api/apifullcalendar.php:352
+msgid "Appointments hash"
+msgstr "Hash schůzek"
+
+#: src/api/apifullcalendar.php:346
+msgid "Appointments id"
+msgstr "ID schůzky"
+
+#: src/templates/admin.tpl.php:393
+msgid "Event content when clicked on event"
+msgstr "Obsah události po kliknutí na událost"
+
+#: src/templates/admin.tpl.php:391
+msgid "Event content in popup"
+msgstr "Obsah události ve vyskakovacím okně"
+
+#: src/templates/admin.tpl.php:25
+msgid "FullCalendar Shortcode"
+msgstr "Zkrácený zápis FullCalendar"
+
+#: src/mail.php:291
+msgid "Appointment link action"
+msgstr "Akce odkazu schůzek"
+
+#: src/mail.php:232
+msgid "Appointment is already cancelled!"
+msgstr "Schůzka je již zrušena!"
+
+#: src/mail.php:198
+msgid "Appointment is already confirmed!"
+msgstr "Schůzka je již potvrzena!"
+
+#: src/templates/mail.confirm.tpl.php:5
+msgid "Yes, I want to Confirm appointment."
+msgstr "Ano, chci potvrdit schůzku."
+
+#: src/templates/mail.confirm.tpl.php:2
+msgid "Do you want to Confirm appointment?"
+msgstr "Chcete potvrdit schůzku?"
+
+#: src/templates/admin.tpl.php:282
+msgid "Two step action links in email"
+msgstr "Dvoustupňové akční odkazy v e-mailu"
+
+#: src/templates/mail.cancel.tpl.php:5
+msgid "Yes, I want to Cancel appointment."
+msgstr "Ano, chci zrušit schůzku."
+
+#: src/templates/mail.cancel.tpl.php:2
+msgid "Do you want to Cancel appointment?"
+msgstr "Chcete schůzku zrušit?"
+
+#: src/templates/admin.tpl.php:151
+msgid "WordPress can add auto paragraph html element for each line break. This option prevents WP from doing that on EA shortcode."
+msgstr "WordPress může automaticky přidat html element odstavce na každý konec řádku. Tato možnost brání WP v tom, aby to udělal na EA zkráceném zápise."
+
+#: src/templates/admin.tpl.php:149
+msgid "Compress shortcode output (removes new lines from templates)."
+msgstr "Komprimovat výstup zkráceného zápisu (odstraní nové řádky ze šablon)."
+
+#: src/templates/admin.tpl.php:367
+msgid "By default only logged in users can see data in FullCalendar. Mark this option if you want to allow public access for all."
+msgstr "Ve výchozím nastavení mohou vidět data ve FullCalendar pouze přihlášení uživatelé. Zaškrtněte tuto možnost, jestli chcete povolit veřejný přístup pro všechny."
+
+#: src/templates/admin.tpl.php:365
+msgid "Allow public access to FullCalendar shortcode"
+msgstr "Povolit veřejný přístup pro FullCalendar shortcode"
+
+#: src/templates/appointments.tpl.php:85
+msgid "Sort By"
+msgstr "Řadit podle"
+
+#: src/templates/report.tpl.php:78
+msgid "Click to customize columns for export"
+msgstr "Klikněte pro výběr sloupců pro export"
+
+#: src/templates/report.tpl.php:76
+msgid "Fields"
+msgstr "Pole"
+
+#: src/templates/report.tpl.php:22
+msgid "Back to Reports"
+msgstr "Zpět na přehledy"
+
+#: src/templates/report.tpl.php:18
+msgid "Export data in Excel CSV format for selected time period."
+msgstr "Export dat v CSV s vybraným časovým obdobím. "
+
+#: src/templates/report.tpl.php:8
+msgid "Have Calendar overview of all bookings and free slots. "
+msgstr "Mějte v kalendáři přehled všech rezervací a volných slotů."
+
+#: src/api/apifullcalendar.php:255
+msgid "Field that will be used as title"
+msgstr "Pole, které bude použito jako název"
+
+#: src/templates/admin.tpl.php:278
+msgid "Available tags"
+msgstr "Dostupné tagy"
+
+#: src/templates/admin.tpl.php:229
+msgid "You can use this tags inside email content. Just place for example #id# inside mail template and that value will be replaced with value."
+msgstr "Tento štítek můžete použít v obsahu e-mailu. Stačí umístit například #id# do šablony e-mailu a tento štítek bude nahrazen příslušnou hodnotou."
+
+#: src/templates/admin.tpl.php:82
+msgid "If you can't EDIT or DELETE conecntion or any other settings, you should mark this option. NOTE: After saving this options you must refresh page!"
+msgstr "Pokud nemůžete upravit nebo odstranit připojení nebo jiné nastavení, měli byste tuto možnost označit. POZNÁMKA: Po uložení této možnosti musíte stránku obnovit!"
+
+#: src/templates/admin.tpl.php:52
+msgid "Money Format"
+msgstr "Formát měny"
+
+#: src/templates/admin.tpl.php:49
+msgid "GDPR"
+msgstr "GDPR"
+
+#: src/templates/admin.tpl.php:46
+msgid "Form Style & Redirect"
+msgstr "Styl formuláře a přesměrování "
+
+#: src/templates/admin.tpl.php:40
+msgid "Google reCAPTCHA v2"
+msgstr "Google reCAPTCHA v2"
+
+#: src/templates/admin.tpl.php:22
+msgid "Mail Notifications"
+msgstr "Upozornění e-mailem"
+
+#: src/templates/admin.tpl.php:19
+msgid "General"
+msgstr "Hlavní "
+
+#: src/templates/admin.tpl.php:658 src/templates/admin.tpl.php:702
+msgid "Add advance redirect"
+msgstr "Přidat rozšířené přesměrování "
+
+#: src/templates/admin.tpl.php:655 src/templates/admin.tpl.php:699
+msgid "Redirect to"
+msgstr "Přesměrovat na"
+
+#: src/templates/admin.tpl.php:642
+msgid "Add custom redirect based on service."
+msgstr "Přidat vlastní přesměrování založené na službě. "
+
+#: src/templates/admin.tpl.php:510
+msgid "* To use using the email notification for user there must be field named \"email\" or \"e-mail\" or field with type \"email\""
+msgstr "* Chcete-li používat e-mailové upozornění pro uživatele, musí zde být pole s názvem „e-mail“ nebo „e-mail“ nebo pole s typem „e-mail“"
+
+#: src/templates/admin.tpl.php:499
+msgid "Textarea"
+msgstr "Textová oblast"
+
+#: src/api/apifullcalendar.php:275
+msgid "End filter from"
+msgstr "Konec filtru z"
+
+#: src/api/apifullcalendar.php:261
+msgid "Start filter from"
+msgstr "Začátek filtru z"
+
+#: src/api/apifullcalendar.php:243
+msgid "Worker id that will be used for getting free / taken slots"
+msgstr "ID pracovníka, které bude použito k získání volných / obsazených slotů"
+
+#: src/api/apifullcalendar.php:237
+msgid "Service id that will be used for getting free / taken slots"
+msgstr "ID služby, které bude použito k získání volných / obsazených slotů"
+
+#: src/api/apifullcalendar.php:231
+msgid "Location id that will be used for getting free / taken slots"
+msgstr "ID lokace, které bude použito k získání volných / obsazených slotů"
+
+#: src/ajax.php:1201
+msgid "Invalid captcha!"
+msgstr "Neplatná captcha!"
+
+#: src/api/apifullcalendar.php:107
+msgid "You cannot update the category resource."
+msgstr "Nelze aktualizovat zdroj rubriky."
+
+#: src/api/apifullcalendar.php:92
+msgid "You cannot view the category resource."
+msgstr "Nelze zobrazit zdroj rubriky."
+
+#: src/templates/admin.tpl.php:535 src/templates/admin.tpl.php:560
+msgid "* If you want to use Captcha you must have auto reservation option turned off. If you don't want to use Captcha just leave fields empty."
+msgstr "* Pokud chcete použít Captcha, musíte mít vypnutou možnost automatické rezervace. Pokud nechcete používat Captcha, nechte pole prázdná."
+
+#: src/templates/admin.tpl.php:529 src/templates/admin.tpl.php:554
+msgid "Secret key"
+msgstr "Tajný klíč "
+
+#: src/templates/admin.tpl.php:525 src/templates/admin.tpl.php:550
+msgid "* Google reCAPTCHA key can be generated via"
+msgstr "* Google reCAPTCHA klíč lze vygenerovat prostřednictvím"
+
+#: src/templates/admin.tpl.php:519 src/templates/admin.tpl.php:544
+msgid "Site key"
+msgstr "Klíč stránky "
+
+#: src/templates/appointments.tpl.php:91
+msgid "Order by"
+msgstr "Seřadit podle"
+
+#: src/frontend.php:529
+msgid "You can't select this time slot!'"
+msgstr "Tento časový úsek si nemůžete vybrat!"
+
+#: src/templates/admin.tpl.php:749
+msgid "Message if user don't mark the GDPR checkbox."
+msgstr "Zpráva, pokud uživatel nezaškrtne políčko GDPR."
+
+#: src/templates/admin.tpl.php:747
+msgid "Error message"
+msgstr "Chybové hlášení "
+
+#: src/templates/admin.tpl.php:740
+msgid "Link to page with GDPR content."
+msgstr "Odkaz na stránku s GDPR."
+
+#: src/templates/admin.tpl.php:738
+msgid "Page with GDPR content"
+msgstr "Stránka s GDPR"
+
+#: src/templates/admin.tpl.php:729
+msgid "Label"
+msgstr "Označení "
+
+#: src/templates/admin.tpl.php:718
+msgid "GDPR section checkbox."
+msgstr "Zaškrtávací políčko sekce GDPR."
+
+#: src/templates/admin.tpl.php:716
+msgid "Turn on checkbox"
+msgstr "Zapnout checkbox"
+
+#: src/templates/admin.tpl.php:115
+msgid "Turn nonce off"
+msgstr "Vypnout \"nonce\" "
+
+#: src/templates/report.tpl.php:83
+msgid "Save settings"
+msgstr "Uložit nastavení "
+
+#: src/templates/report.tpl.php:81
+msgid "Place fields separate by , for example: id,name,email"
+msgstr "Umístěte pole oddělené , (čárkou) (například: id,name,e-mail)"
+
+#: src/frontend.php:244 src/frontend.php:533
+msgid "Unable to make ajax request. Please try again later."
+msgstr "Ajax požadavek nelze provést. Prosím zkuste to znovu později."
+
+#: src/templates/admin.tpl.php:245
+msgid "Admin"
+msgstr "Admin"
+
+#: src/ajax.php:785
+msgid "Request completed, please check email."
+msgstr "Žádost vyřízena, zkontrolujte svůj e-mail."
+
+#: src/ajax.php:762
+msgid "Only admin user can test mail!"
+msgstr "Pouze administrátor může otestovat e-mail!"
+
+#: src/ajax.php:758
+msgid "Invalid email address!"
+msgstr "Neplatná e-mailová adresa!"
+
+#: src/frontend.php:243 src/frontend.php:532
+msgid "Internal error. Please try again later."
+msgstr "Interní chyba. Prosím zkuste to znovu."
+
+#: src/frontend.php:242 src/frontend.php:531
+msgid "Form validation code expired. Please refresh page in order to continue."
+msgstr "Platnost kódu pro ověření formuláře vypršela. Chcete-li pokračovat, obnovte stránku."
+
+#: src/templates/admin.tpl.php:779
+msgid "Currency before price"
+msgstr "Měna před cenou"
+
+#: src/ajax.php:263
+msgid "Slot is taken"
+msgstr "Slot je obsazen"
+
+#: src/templates/admin.tpl.php:326
+msgid "Mark this option if you want to employee receive admin email after filing the form."
+msgstr "Označte tuto možnost, pokud chcete, aby zaměstnanec po vyplnění formuláře obdržel admin e-mail."
+
+#: src/templates/admin.tpl.php:324
+msgid "Send email to worker"
+msgstr "Poslat e-mail pracovníkovi"
+
+#. Description of the plugin
+msgid "Simple and easy to use management system for Appointments and Bookings"
+msgstr "Jednoduchý a snadno použitelný systém pro správu schůzek a rezervací"
+
+#. Plugin URI of the plugin
+msgid "https://easy-appointments.net/"
+msgstr "https://easy-appointments.net/"
+
+#: src/admin.php:398 src/admin.php:399
+msgid "Tools"
+msgstr "Nástroje "
+
+#: src/api/apifullcalendar.php:325 src/mail.php:473
+msgid "Cancel appointment"
+msgstr "Zrušit schůzku"
+
+#: src/api/apifullcalendar.php:326 src/mail.php:474
+msgid "Confirm appointment"
+msgstr "Potvrdit schůzku"
+
+#: src/templates/admin.tpl.php:129
+msgid "Default status of Appointment made by visitor."
+msgstr "Výchozí stav schůzky založen návštěvníkem"
+
+#: src/templates/admin.tpl.php:127
+msgid "Default status"
+msgstr "Výchozí stav"
+
+#: src/templates/admin.tpl.php:105
+msgid "Make reservation at moment user select date and time!"
+msgstr "Proveďte rezervaci v okamžiku, kdy uživatel vybere datum a čas!"
+
+#: src/templates/admin.tpl.php:103
+msgid "Auto reservation"
+msgstr "Automatická rezervace"
+
+#: src/templates/appointments.tpl.php:63
+msgid "Today"
+msgstr "Dnes"
+
+#: src/templates/appointments.tpl.php:68
+msgid "This month"
+msgstr "Tento měsíc "
+
+#: src/templates/appointments.tpl.php:67
+msgid "This week"
+msgstr "Tento týden "
+
+#: src/templates/appointments.tpl.php:62
+msgid "Select period"
+msgstr "Vyberte období"
+
+#: src/mail.php:237
+msgid "Appointment can't be cancelled!"
+msgstr "Schůzku nelze zrušit!"
+
+#: src/mail.php:206
+msgid "Appointment can't be confirmed!"
+msgstr "Schůzku nelze potvrdit!"
+
+#: src/mail.php:276
+msgid "Appointment has been cancelled"
+msgstr "Schůzka byla zrušena"
+
+#: src/mail.php:255
+msgid "Appointment can't be cancelled"
+msgstr "Schůzku nelze zrušit"
+
+#: src/mail.php:224
+msgid "Appointment has been confirmed."
+msgstr "Schůzka byla potvrzena."
+
+#: src/mail.php:180
+msgid "Invalid token."
+msgstr "Neplatný token."
+
+#: src/mail.php:174
+msgid "No appointment."
+msgstr "Žádná schůzka..."
+
+#: src/templates/admin.tpl.php:442
+msgid "Notice : date/time formating for email notification are done by Settings > General."
+msgstr "Upozornění: formátování data/času pro e-mailová upozornění se provádí v Nastavení> Obecné."
+
+#: src/templates/admin.tpl.php:95
+msgid "Number of appointments that one visitor can make reservation before limit alert is shown. Appointments are counted during one day."
+msgstr "Počet schůzek, které si jeden návštěvník může rezervovat, než se zobrazí upozornění na limit. Schůzky se počítají v průběhu jednoho dne."
+
+#: src/templates/admin.tpl.php:93
+msgid "Max number of appointments"
+msgstr "Maximální počet schůzek"
+
+#: src/templates/report.tpl.php:99
+msgid "Export data"
+msgstr "Export dat"
+
+#: src/templates/report.tpl.php:98
+msgid "Export data to CSV, can be imported to MS Excel, OpenOffice Calc... "
+msgstr "Exportovat data do CSV, může být importováno z MS Excel, Open Office Calc..."
+
+#: src/templates/admin.tpl.php:472
+msgid "Block time"
+msgstr "Čas bloku"
+
+#: src/templates/admin.tpl.php:632
+msgid "After a visitor creates an appointment on the front-end form. Leave blank to turn off redirect."
+msgstr "Poté, co návštěvník vytvoří schůzku pomocí front-end formuláře. Ponechte prázdné, chcete-li přesměrování vypnout."
+
+#: src/templates/admin.tpl.php:630
+msgid "Go to page"
+msgstr "Jdi na stránku"
+
+#: src/templates/admin.tpl.php:666
+msgid "After cancel go to"
+msgstr "Po zrušení přejděte na"
+
+#: src/templates/admin.tpl.php:580
+msgid "Turn off css files"
+msgstr "Vypnout css soubory"
+
+#. Author URI of the plugin
+msgid "http://nikolaloncar.com"
+msgstr "\thttp://nikolaloncar.com"
+
+#. Author of the plugin
+msgid "Nikola Loncar"
+msgstr "Nikola Loncar"
+
+#. Plugin Name of the plugin
+msgid "Easy Appointments"
+msgstr "Jednoduché schůzky"
+
+#: src/templates/report.tpl.php:17
+msgid "Export"
+msgstr "Exportovat"
+
+#: src/templates/report.tpl.php:12
+msgid "Money"
+msgstr "Peníze "
+
+#: src/templates/report.tpl.php:7
+msgid "Time table"
+msgstr "Kalendář "
+
+#: src/templates/appointments.tpl.php:87
+#: src/templates/mail.notification.tpl.php:10
+msgid "Id"
+msgstr "ID"
+
+#: src/templates/appointments.tpl.php:244
+msgid "Send email notification :"
+msgstr "Poslat upozornění e-mailem:"
+
+#: src/templates/appointments.tpl.php:108
+msgid "Action"
+msgstr "Akce"
+
+#: src/templates/appointments.tpl.php:89 src/templates/appointments.tpl.php:107
+#: src/templates/mail.notification.tpl.php:42
+msgid "Created"
+msgstr "Vytvořeno "
+
+#: src/templates/appointments.tpl.php:104
+msgid "Customer"
+msgstr "Zákazník "
+
+#: src/templates/appointments.tpl.php:78
+msgid "Add New Appointment"
+msgstr "Přidat novou schůzku"
+
+#: src/templates/appointments.tpl.php:58 src/templates/report.tpl.php:95
+msgid "To"
+msgstr "Do"
+
+#: src/shortcodes/fullcalendar.php:271 src/templates/appointments.tpl.php:47
+#: src/templates/appointments.tpl.php:107
+#: src/templates/mail.notification.tpl.php:14
+msgid "Status"
+msgstr "Stav"
+
+#: src/templates/appointments.tpl.php:56 src/templates/report.tpl.php:91
+msgid "From"
+msgstr "Od"
+
+#: src/templates/admin.tpl.php:796
+msgid "Hide price"
+msgstr "Skrýt cenu "
+
+#: src/templates/admin.tpl.php:774
+msgid "Currency"
+msgstr "Měna "
+
+#: src/templates/admin.tpl.php:619
+msgid "I agree option at the end of form. If this is marked user must confirm \"I agree\" checkbox."
+msgstr "Souhlasím s možností na konci formuláře. Pokud je toto označeno, musí uživatel potvrdit zaškrtávací políčko „Souhlasím“."
+
+#: src/templates/admin.tpl.php:617
+msgid "I agree field"
+msgstr "Pole souhlasu"
+
+#: src/templates/admin.tpl.php:575
+msgid "Place here custom css styles. This will be included in both standard and bootstrap widget."
+msgstr "Sem umístěte vlastní CSS styly. Ty budou zahrnuty ve standardním i bootstrapovém widgetu."
+
+#: src/templates/admin.tpl.php:573
+msgid "Custom style"
+msgstr "Vlastní styl"
+
+#: src/templates/admin.tpl.php:504
+msgid "Add"
+msgstr "Vložit"
+
+#: src/templates/admin.tpl.php:37
+msgid "Custom Form Fields"
+msgstr "Vlastní pole formuláře"
+
+#: src/templates/admin.tpl.php:456
+msgid "Calendar localization"
+msgstr "Lokalizace kalendáře"
+
+#: src/templates/admin.tpl.php:440
+msgid "Time format"
+msgstr "Časový formát "
+
+#: src/templates/admin.tpl.php:34
+msgid "Date & Time"
+msgstr "Datum & Čas"
+
+#: src/templates/admin.tpl.php:426
+msgid "Message that user receive after completing appointment"
+msgstr "Zpráva, kterou uživatel obdrží po dokončení schůzky. "
+
+#: src/templates/admin.tpl.php:424
+msgid "Done message"
+msgstr "Hotovo"
+
+#: src/templates/admin.tpl.php:351
+msgid "Send from email adress (Example: Name &lt;name@domain.com&gt;). Leave blank to use default address."
+msgstr "Odeslat z e-mailové adresy (Příklad: Name &lt;name@domain.com&gt;). Chcete-li použít výchozí adresu, ponechte pole prázdné."
+
+#: src/templates/admin.tpl.php:349
+msgid "Send from"
+msgstr "Odeslat z"
+
+#: src/templates/admin.tpl.php:339
+msgid "Mark this option if you want to user receive email after filing the form."
+msgstr "Tuto možnost označte, pokud chcete, aby uživatel po vyplnění formuláře obdržel e-mail."
+
+#: src/templates/admin.tpl.php:337
+msgid "Send email to user"
+msgstr "Poslat e-mail uživateli"
+
+#: src/templates/admin.tpl.php:306 src/templates/admin.tpl.php:316
+msgid "You can use any tag that is available as in custom email notifications."
+msgstr "Můžete použít libovolný štítek, který je k dispozici ve vlastních e-mailových oznámeních."
+
+#: src/templates/admin.tpl.php:304
+msgid "Admin notification subject"
+msgstr "Předmět admin oznámení"
+
+#: src/templates/admin.tpl.php:296
+msgid "Enter email adress that will receive new reservation notification. Separate multiple emails with , (comma)"
+msgstr "Zadejte e-mailovou adresu, na kterou obdržíte oznámení o nové rezervaci. Oddělte více e-mailů znakem , (čárkou)"
+
+#: src/templates/admin.tpl.php:294
+msgid "Pending notification emails"
+msgstr "Nevyřízené e-mailové upozornění"
+
+#: src/templates/admin.tpl.php:243
+msgid "Confirmed"
+msgstr "Potvrzeno"
+
+#: src/templates/admin.tpl.php:241
+msgid "Cancelled"
+msgstr "Zrušeno"
+
+#: src/templates/admin.tpl.php:239
+msgid "Reservation"
+msgstr "Rezervace"
+
+#: src/templates/admin.tpl.php:237
+msgid "Pending"
+msgstr "Čekající"
+
+#: src/templates/admin.tpl.php:227
+msgid "Notifications"
+msgstr "Upozornění"
+
+#: src/templates/admin.tpl.php:80
+msgid "Compatibility mode"
+msgstr "Režim kompatibility"
+
+#: src/templates/mail.notification.tpl.php:38
+msgid "End"
+msgstr "Konec"
+
+#: src/templates/mail.notification.tpl.php:34
+msgid "Start"
+msgstr "Začátek"
+
+#: src/templates/appointments.tpl.php:151
+msgid "Clone"
+msgstr "Klonovat"
+
+#: src/templates/appointments.tpl.php:221
+#: src/templates/mail.notification.tpl.php:30
+msgid "Date"
+msgstr "Datum"
+
+#: src/templates/appointments.tpl.php:223
+msgid "Time"
+msgstr "Čas"
+
+#: src/templates/admin.tpl.php:70 src/templates/admin.tpl.php:418
+#: src/templates/appointments.tpl.php:29 src/templates/appointments.tpl.php:103
+#: src/templates/appointments.tpl.php:182
+#: src/templates/mail.notification.tpl.php:26 src/templates/report.tpl.php:53
+msgid "Worker"
+msgstr "Zaměstnanec"
+
+#: src/templates/admin.tpl.php:73 src/templates/admin.tpl.php:408
+#: src/templates/admin.tpl.php:646 src/templates/admin.tpl.php:690
+#: src/templates/appointments.tpl.php:20 src/templates/appointments.tpl.php:103
+#: src/templates/appointments.tpl.php:172
+#: src/templates/mail.notification.tpl.php:22 src/templates/report.tpl.php:44
+msgid "Service"
+msgstr "Služba"
+
+#: src/templates/admin.tpl.php:56 src/templates/appointments.tpl.php:248
+msgid "Save"
+msgstr "Uložit"
+
+#: src/templates/appointments.tpl.php:150
+msgid "Delete"
+msgstr "Odstranit"
+
+#: src/templates/appointments.tpl.php:149
+msgid "Edit"
+msgstr "Upravit"
+
+#: src/templates/admin.tpl.php:72 src/templates/admin.tpl.php:413
+#: src/templates/appointments.tpl.php:11 src/templates/appointments.tpl.php:103
+#: src/templates/appointments.tpl.php:162
+#: src/templates/mail.notification.tpl.php:18 src/templates/report.tpl.php:35
+msgid "Location"
+msgstr "Místo"
+
+#: src/templates/appointments.tpl.php:82 src/templates/report.tpl.php:62
+msgid "Refresh"
+msgstr "Obnovit"
+
+#: src/admin.php:378 src/admin.php:379
+msgid "Connections"
+msgstr "Propojení"
+
+#: src/admin.php:358 src/admin.php:359
+msgid "Services"
+msgstr "Služby"
+
+#: src/admin.php:348 src/admin.php:349
+msgid "Locations"
+msgstr "Místa"
+
+#: src/metafields.php:28
+msgid "Text"
+msgstr "Text"
+
+#: src/metafields.php:27 src/templates/admin.tpl.php:498
+msgid "Select"
+msgstr "Vybrat"
+
+#: src/metafields.php:26 src/templates/admin.tpl.php:496
+msgid "Input"
+msgstr "Vstup"
+
+#: src/logic.php:386
+msgid "confirmed"
+msgstr "Potvrzeno"
+
+#: src/logic.php:385
+msgid "cancelled"
+msgstr "Zrušeno"
+
+#: src/logic.php:384
+msgid "abandoned"
+msgstr "opuštěné"
+
+#: src/logic.php:383
+msgid "reservation"
+msgstr "Rezervace"
+
+#: src/logic.php:382
+msgid "pending"
+msgstr "Čekající"
+
+#: src/install.php:839 src/templates/appointments.tpl.php:105
+msgid "Description"
+msgstr "Popis"
+
+#: src/install.php:836
+msgid "EMail"
+msgstr "E-mail"
+
+#: src/frontend.php:521
+msgid "Please check your appointment details below and confirm:"
+msgstr "Prosím, zkontrolujte detaily vaší schůzky níže a potvrďte:"
+
+#: src/frontend.php:520
+msgid "Comment"
+msgstr "Komentář"
+
+#: src/frontend.php:519 src/install.php:838 src/metafields.php:29
+#: src/templates/admin.tpl.php:500
+msgid "Phone"
+msgstr "Telefon"
+
+#: src/frontend.php:518 src/install.php:837
+msgid "Name"
+msgstr "Jméno"
+
+#: src/frontend.php:517 src/metafields.php:30 src/templates/admin.tpl.php:501
+msgid "Email"
+msgstr "E-mail"
+
+#: src/frontend.php:515
+msgid "Please enter at least 3 digits."
+msgstr "Prosím, zadejte alespoň 3 čísla"
+
+#: src/frontend.php:514
+msgid "Please enter at least 3 characters."
+msgstr "Prosím zadejte alespoň 3 znaky"
+
+#: src/frontend.php:394 src/frontend.php:401 src/frontend.php:406
+#: src/frontend.php:422 src/frontend.php:512
+msgid "This field is required."
+msgstr "Toto pole je povinné."
+
+#: src/frontend.php:323 src/frontend.php:528
+msgid "You must agree with terms and conditions"
+msgstr "Musíte souhlasit s našimi smluvními podmínkami"
+
+#: src/frontend.php:320 src/frontend.php:527
+msgid "I agree with terms and conditions"
+msgstr "Souhlasím s obchodními podmínkami."
+
+#: src/frontend.php:315 src/frontend.php:522
+msgid "Booking overview"
+msgstr "Shrnutí rezervace"
+
+#: src/frontend.php:311 src/frontend.php:516
+msgid "Fields with * are required"
+msgstr "Pole s * jsou povinná"
+
+#: src/frontend.php:310 src/frontend.php:511
+msgid "Personal information"
+msgstr "Osobní údaje"
+
+#: src/frontend.php:234 src/frontend.php:523
+#: src/templates/appointments.tpl.php:88 src/templates/appointments.tpl.php:106
+msgid "Date & time"
+msgstr "Datum & čas"
+
+#: src/frontend.php:233 src/frontend.php:510
+msgid "Please select another day"
+msgstr "Vyberte prosím jiný den"
+
+#: src/ajax.php:294
+msgid "Something went wrong! Please try again."
+msgstr "Něco se pokazilo. Zkuste to prosím znovu."
+
+#: src/logic.php:262
+msgid "Daily limit of booking request has been reached. Please contact us by email!"
+msgstr "Denní limit požadavků na rezervaci byl vyčerpán. Kontaktujte nás prosím e-mailem!"
+
+#: src/admin.php:388 src/admin.php:389
+msgid "Settings"
+msgstr "Nastavení"
+
+#: src/admin.php:338 src/admin.php:339 src/templates/appointments.tpl.php:6
+msgid "Appointments"
+msgstr "Schůzky"

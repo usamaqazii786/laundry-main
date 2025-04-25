@@ -1,0 +1,15 @@
+.gradient-heading {
+    font-size: 4rem !important; /* Adjust the size as needed */
+    font-weight: bold !important;
+    background: linear-gradient(to right, #1ea3fe ,  #9afbce); /* Define the gradient colors */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; /* Makes the text transparent to show the gradient */
+  }
+
+  .gradient-headingmobile {
+    font-size: 3rem; /* Adjust the size as needed */
+    font-weight: bold;
+    background: linear-gradient(to right, #1ea3fe ,  #9afbce); /* Define the gradient colors */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; /* Makes the text transparent to show the gradient */
+  }
